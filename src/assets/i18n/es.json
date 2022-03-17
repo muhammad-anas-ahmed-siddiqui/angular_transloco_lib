@@ -1,4 +1,5 @@
 {
+  "name": "Mi nombre es {{name}}",
   "hello": "transloco es",
   "dynamic": "transloco {{value}}"
 }
